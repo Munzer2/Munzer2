@@ -51,7 +51,7 @@ I'm a passionate software engineer with expertise in full-stack development, sys
 **Repository:**
 - **[CP Solutions](https://github.com/Munzer2/CP)** - Collection of competitive programming solutions
 
-### oftware Engineering & Design
+### Software Engineering & Design
 - **Design Patterns**: Implementation of classic software design patterns
 - **Object-Oriented Programming**: Strong foundation in OOP principles and best practices
 - **Software Architecture**: Building maintainable, scalable software systems
