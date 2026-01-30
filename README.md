@@ -2,7 +2,7 @@
 
 I'm a passionate software engineer with expertise in full-stack development, systems programming, and artificial intelligence. My work spans across web applications, compilers, operating systems, and competitive programming.
 
-## 🚀 What I Can Do
+##  What I Can Do
 
 ### Full-Stack Web Development
 - **Modern Web Applications**: Build responsive, scalable web apps using React, Next.js, and TypeScript
@@ -27,7 +27,7 @@ I'm a passionate software engineer with expertise in full-stack development, sys
 - **[OS Sessional](https://github.com/Munzer2/CSE-314-OS)** - Operating system concepts in C++
 - **[Microcontrollers Sessional](https://github.com/Munzer2/CSE-316-Microcontrollers_Sessional)** - Assembly programming projects
 
-### 🤖 Artificial Intelligence & Data Science
+###  Artificial Intelligence & Data Science
 - **AI Algorithms**: Implementation of search algorithms, optimization techniques, and machine learning models
 - **Data Analysis**: Statistical analysis and data visualization using Python and Jupyter Notebooks
 - **Natural Language Processing**: Integration of AI models (Gemini API) for intelligent applications
