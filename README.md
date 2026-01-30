@@ -46,4 +46,8 @@ I'm a passionate software engineer with expertise in full-stack development, sys
 - **AI/ML**: Gemini API, Data Analysis
 - **Testing**: Playwright
 
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munzer2&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munzer2&layout=compact&theme=radical)
