@@ -19,13 +19,13 @@ I'm a passionate software engineer with expertise in full-stack development, sys
 ### 💻 Systems Programming & Low-Level Development
 - **Compiler Construction**: Built a complete compiler with lexical analysis, parsing, and code generation
 - **Operating Systems**: Implemented OS concepts including process scheduling, memory management, and file systems
-- **Microcontroller Programming**: Assembly language programming for 8086 microcontrollers
+- **Microcontroller Programming**: Assembly language programming for 8086 microprocessor
 - **Computer Graphics**: OpenGL-based graphics rendering and animations
 
 **Academic Projects:**
 - **[Compiler Sessional](https://github.com/Munzer2/Cse310-Compiler_Sessional)** - Complete compiler implementation in C
 - **[OS Sessional](https://github.com/Munzer2/CSE-314-OS)** - Operating system concepts in C++
-- **[Microcontrollers](https://github.com/Munzer2/CSE-316-Microcontrollers_Sessional)** - Assembly programming projects
+- **[Microcontrollers Sessional](https://github.com/Munzer2/CSE-316-Microcontrollers_Sessional)** - Assembly programming projects
 
 ### 🤖 Artificial Intelligence & Data Science
 - **AI Algorithms**: Implementation of search algorithms, optimization techniques, and machine learning models
