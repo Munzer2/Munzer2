@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm a passionate software engineer with expertise in full-stack development, systems programming, and artificial intelligence. My work spans across web applications, compilers, operating systems, and competitive programming. 
+## Hi there, I'm Munzer.
 
 **Currently, I am working as a part-time ML Engineer at OpenRefactory.**
 
