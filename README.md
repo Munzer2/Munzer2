@@ -20,5 +20,5 @@
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munzer2&theme=tokyonight-animation" width="100%" alt="Munzer2's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munzer2&theme=tokyonight" width="100%" alt="Munzer2's Contribution Graph" />
 </p>
