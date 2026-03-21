@@ -1,79 +1,32 @@
-# Hi there 👋 — I’m Munzer
+## Hi there 👋
 
-I’m a software engineer focused on **full‑stack development**, **systems programming**, and **AI/ML**. I enjoy building everything from web apps to low-level systems, and I also work on **compilers**, **operating systems**, and **competitive programming** projects.
+I'm a passionate software engineer with expertise in full-stack development, systems programming, and artificial intelligence. My work spans across web applications, compilers, operating systems, and competitive programming. 
 
-**Currently:** Part-time **ML Engineer** at **OpenRefactory**.
-
----
+**Currently, I am working as a part-time ML Engineer at OpenRefactory.**
 
 ## Tech Toolbox
 
-### Core Languages & Frameworks
 <p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=python,java,js,c,cpp,css&perline=14"
-    height="45"
-    alt="Python, Java, JavaScript, C, C++, CSS"
-  />
-</p>
-
-### Backend / Data / ML
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,postgres,tensorflow,sklearn,r&perline=14"
-    height="45"
-    alt="Node.js, PostgreSQL, TensorFlow, scikit-learn, R"
-  />
-</p>
-
-### Frontend
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=svelte&perline=14"
-    height="45"
-    alt="Svelte"
-  />
-</p>
-
-### Tools / Platforms
-<p align="left">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"
-    height="40"
-    alt="Oracle"
-  />
-  <img
-    src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_logo.png"
-    height="40"
-    alt="Proteus Design Suite"
-  />
+  <img src="https://skillicons.dev/icons?i=python,java,js&perline=14" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_logo.png" height="50" alt="Proteus" />
+  <img src="https://skillicons.dev/icons?i=c,postgres,svelte,tensorflow,nodejs" height="50" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=css,sklearn,r,cpp" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="50" alt="Oracle" />
 </p>
 
 ---
 
-## Other Technologies
-
-- **Auth**: JWT, OAuth  
-- **ORM / Server-side**: JPA/Hibernate, Thymeleaf  
-- **Web Scraping**: Selenium WebDriver, Playwright  
-- **Graphics**: OpenGL, iGraphics  
-- **Compilers**: Lex, Yacc  
-- **AI/ML**: PyTorch, Pandas, Data Analysis, Gemini API  
-
----
+### Other Technologies
+- **Authentication**: JWT, OAuth
+- **ORM**: JPA/Hibernate, Thymeleaf
+- **Web Scraping**: Selenium WebDriver, Playwright
+- **Graphics**: OpenGL, iGraphics
+- **Compilers**: Lex, Yacc
+- **AI/ML**: Gemini API, PyTorch, Pandas, Data Analysis
 
 ## GitHub Stats
 
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Munzer2&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Munzer2&show_icons=true&theme=tokyonight)
 
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Munzer2&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Munzer2&layout=compact&theme=tokyonight)
