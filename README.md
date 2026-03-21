@@ -16,9 +16,9 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Munzer2&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Munzer2&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Munzer2&layout=compact&theme=tokyonight)
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munzer2&theme=tokyonight" width="100%" alt="Munzer2's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munzer2&theme=dracula" width="100%" alt="Munzer2's Contribution Graph" />
 </p>
