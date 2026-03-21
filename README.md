@@ -5,24 +5,21 @@
 ## Tech stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js&perline=14" height="50" />
-  <img src="https://skillicons.dev/icons?i=c,postgres,svelte,tensorflow,nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,wasm,go,rust&perline=14" height="45" />
   <br>
-  <img src="https://skillicons.dev/icons?i=css,sklearn,r,cpp" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,express,spring,flask,fastapi,pytorch,tensorflow,sklearn&perline=14" height="45" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle,docker,kubernetes,aws,git,linux,selenium,postman&perline=14" height="45" />
 </p>
-
 ---
-
-### Other Technologies
-- **Authentication**: JWT, OAuth
-- **ORM**: JPA/Hibernate, Thymeleaf
-- **Web Scraping**: Selenium WebDriver, Playwright
-- **Graphics**: OpenGL, iGraphics
-- **Compilers**: Lex, Yacc
-- **AI/ML**: Gemini API, PyTorch, Pandas, Data Analysis
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Munzer2&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Munzer2&layout=compact&theme=tokyonight)
+
+### Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munzer2&theme=tokyonight-animation" width="100%" alt="Munzer2's Contribution Graph" />
+</p>
