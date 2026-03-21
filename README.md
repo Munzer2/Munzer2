@@ -2,7 +2,7 @@
 
 **Currently, I am working as a part-time ML Engineer at OpenRefactory.**
 
-## Tech Toolbox
+## Tech stacks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js&perline=14" height="50" />
