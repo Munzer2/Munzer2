@@ -5,11 +5,11 @@
 ## Tech stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,wasm,go,rust&perline=14" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css&perline=14" height="45" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,express,spring,flask,fastapi,pytorch,tensorflow,sklearn&perline=14" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flask,fastapi,pytorch,tensorflow,sklearn&perline=14" height="45" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle,docker,kubernetes,aws,git,linux,selenium,postman&perline=14" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,git,linux,selenium,postman&perline=14" height="45" />
 </p>
 
 ## GitHub Stats
