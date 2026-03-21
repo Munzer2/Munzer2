@@ -8,11 +8,9 @@ I'm a passionate software engineer with expertise in full-stack development, sys
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js&perline=14" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_logo.png" height="50" alt="Proteus" />
   <img src="https://skillicons.dev/icons?i=c,postgres,svelte,tensorflow,nodejs" height="50" />
   <br>
   <img src="https://skillicons.dev/icons?i=css,sklearn,r,cpp" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="50" alt="Oracle" />
 </p>
 
 ---
