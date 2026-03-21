@@ -11,7 +11,6 @@
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle,docker,kubernetes,aws,git,linux,selenium,postman&perline=14" height="45" />
 </p>
----
 
 ## GitHub Stats
 
