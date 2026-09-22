@@ -1,6 +1,6 @@
 ## Hi there, I'm Munzer.
 
-**Currently, I am working as a part-time ML Engineer at OpenRefactory.**
+**Currently, I am a lecturer of CSE at Presidency University.**
 
 ## Tech stacks
 
